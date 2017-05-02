@@ -1,0 +1,25 @@
+{
+  "delay": 0,
+
+  "category": "tops_sweaters",
+  "name_key": "raglan",
+  "style_key": "mustard",
+  "size_key": "medium",
+
+  "f_name": "Fake",
+  "l_name": "Fake",
+  "email": "agompper@me.com",
+  "address": "1900 Fake st",
+  "address2": "",
+  "city": "Fake",
+  "state_abv": "MO",
+  "country": "USA",
+  "zip": "65202",
+  "phone": "aa573-864-4512",
+
+  "type": "Mastercard",
+  "cc": "aa1234123412341234",
+  "month": "11",
+  "year": "2022",
+  "cvv": "123"
+}
